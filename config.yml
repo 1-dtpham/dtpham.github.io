@@ -1,1 +1,5 @@
-
+title:Downloads
+#logo
+description: downloads
+#show_downloads: true
+theme: jekyll-theme-minimal
